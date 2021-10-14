@@ -48,7 +48,7 @@ ${message.content}`)
 
 
 
-client.on('ready', () => {
+client.on('ready', (https://discord.gg/XKvVKPwU) => {
 console.log(`ON ${client.guilds.size} Servers`);
 console.log(`Logged in as ${client.user.tag}!`);
 client.user.setGame(`ڕیکلامەکە بنێرە بۆمن دایدەنێم☑️`) 
