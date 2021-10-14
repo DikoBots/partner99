@@ -48,7 +48,7 @@ ${message.content}`)
 
 
 
-client.on('ready', () => {
+client.on('ready', (https://discord.gg/XKvVKPwU) => {
 console.log(`ON ${client.guilds.size} Servers`);
 console.log(`Logged in as ${client.user.tag}!`);
 client.user.setGame(`ڕیکلامەکە بنێرە بۆمن دایدەنێم☑️`) 
@@ -57,4 +57,4 @@ client.user.setGame(`ڕیکلامەکە بنێرە بۆمن دایدەنێم☑�
 
 
 
-client.login("");//تۆکین لێرە دانێ
+client.login("ODk4MTM2MjQ0MTk2ODgwMzk0.YWf0jw.AeqMjiAwYaHapQjZ8jyGNOrb26g");//تۆکین لێرە دانێ
